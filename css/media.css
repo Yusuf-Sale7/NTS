@@ -1,0 +1,164 @@
+@media (max-width: 375px) {
+  /* Navbar */
+  .nbar .navbar-nav {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+
+  /* Home intro */
+  .intro {
+    min-height: 400px
+  }
+
+  .intro p {
+    width: 95%
+  }
+
+  /* Fields */
+  .fields header {
+  	top: -5px;
+    padding-bottom: 20px
+  }
+
+  .fields .field-block {
+    margin-bottom: 20px
+  }
+
+  /* About */
+  .about {
+    padding-bottom: 30px
+  }
+
+  .about .about-intro {
+    padding: 120px 0 80px 0
+  }
+
+  .about .about-intro p {
+    width: 90%
+  }
+
+  .about .other .det-block {
+    margin-bottom: 20px
+  }
+
+  /* Footer */
+  footer .copyrights {
+    text-align: center;
+  }
+
+  footer .social {
+    text-align: center;
+    margin-top: 15px
+  }
+
+}
+
+@media (min-width: 376px) and (max-width: 575px) {
+  /* Navbar */
+  .nbar .navbar-nav {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+
+  /* Home intro */
+  .intro {
+    min-height: 400px
+  }
+
+  .intro p {
+    width: 80%
+  }
+
+  /* Fields */
+  .fields header {
+  	top: -15px
+  }
+
+  .fields .field-block {
+    margin-bottom: 20px
+  }
+
+
+  /* About */
+  .about .about-intro {
+    padding: 120px 0 80px 0
+  }
+
+  .about .about-intro p {
+    width: 85%
+  }
+
+  .about .other .det-block {
+    margin-bottom: 20px
+  }
+
+  /* Footer */
+  footer .copyrights {
+    text-align: center;
+  }
+
+  footer .social {
+    text-align: center;
+    margin-top: 15px
+  }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+  /* Fields */
+  .fields header {
+  	top: -20px
+  }
+
+  .fields .field-block {
+    margin-bottom: 20px
+  }
+
+
+  /* About */
+  .about .about-intro {
+    padding: 120px 0 80px 0
+  }
+
+  .about .about-intro p {
+    width: 80%
+  }
+
+  .about .other .det-block {
+    margin-bottom: 20px
+  }
+
+  /* Footer */
+  footer .copyrights {
+    text-align: center;
+  }
+
+  footer .social {
+    text-align: center;
+    margin-top: 15px
+  }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+  /* Fields */
+  .fields header {
+  	top: -20px
+  }
+
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+
+
+}
